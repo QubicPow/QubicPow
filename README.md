@@ -7,8 +7,8 @@
 -------------------------------------------
 | OS    | DownLoad  |
 | ------ | ------ |
-| Windows |[Qubic_windows](https://github.com/QubicPow/QubicPow/raw/main/qubicclient_for_windows.zip) |
-| Linux | [Qubic_Linux](https://github.com/QubicPow/QubicPow/raw/main/qubicclient_for_Linux.tar)|
+| Windows |[Qubic_windows](https://github.com/QubicPow/QubicPow/raw/main/windows.zip) |
+| Linux | [Qubic_Linux](https://github.com/QubicPow/QubicPow/raw/main/Linux.tar)|
 -------------------------------------------
 
 |config   | values   | usage    |
@@ -38,10 +38,10 @@ wsl --install
 #  cd ~/qubicclient
 ```
 ```bash
-#  wget https://github.com/QubicPow/QubicPow/raw/main/qubicclient_for_Linux.tar
+#  wget https://github.com/QubicPow/QubicPow/raw/main/Linux.tar
 ```
 ```bash
-#  tar -xvf qubicclient_for_Linux.tar
+#  tar -xvf Linux.tar
 ```
 Edit conf.conf
 ```bash
