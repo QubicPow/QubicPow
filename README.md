@@ -5,10 +5,10 @@
 | Linux | sudo apt-get install -y dotnet-runtime-6.0|
 
 -------------------------------------------
-| OS    | Down   |
+| OS    | DownLoad  |
 | ------ | ------ |
-| Windows |[qubicclient_for_windows.zip](https://github.com/QubicPow/QubicPow/raw/main/qubicclient_for_windows.zip) |
-| Linux | [qubicclient_for_Linux.tar](https://github.com/QubicPow/QubicPow/raw/main/qubicclient_for_Linux.tar)|
+| Windows |[Qubic_windows](https://github.com/QubicPow/QubicPow/raw/main/qubicclient_for_windows.zip) |
+| Linux | [Qubic_Linux](https://github.com/QubicPow/QubicPow/raw/main/qubicclient_for_Linux.tar)|
 -------------------------------------------
 
 |config   | values   | usage    |
