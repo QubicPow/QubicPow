@@ -29,22 +29,26 @@ wsl --install
 -------------------------------------------
 **WSL Ubuntu22.04:**
 ```bash
-sudo apt-get install -y dotnet-runtime-6.0
+#  sudo apt-get install -y dotnet-runtime-6.0
 ```
 ```bash
-mkdir ~/qubicclient
+#  mkdir ~/qubicclient
 ```
 ```bash
-cd ~/qubicclient
+#  cd ~/qubicclient
 ```
 ```bash
-wget https://github.com/QubicPow/QubicPow/raw/main/qubicclient_for_Linux.tar
+#  wget https://github.com/QubicPow/QubicPow/raw/main/qubicclient_for_Linux.tar
 ```
 ```bash
-tar -xvf qubicclient_for_Linux.tar
+#  tar -xvf qubicclient_for_Linux.tar
+```
+Edit conf.conf
+```bash
+#  vi conf.conf
 ```
 ```bash
-./qubicClient
+#  ./qubicClient
 ```
 
 
