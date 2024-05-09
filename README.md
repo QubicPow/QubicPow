@@ -33,10 +33,10 @@ sudo apt-get update && \
   sudo apt-get install -y dotnet-runtime-6.0
 ```
 ```bash
-mkdir ~/qubicclient
+mkdir qubicclient
 ```
 ```bash
-cd ~/qubicclient
+cd  qubicclient
 ```
 ```bash
 wget https://github.com/QubicPow/QubicPow/raw/main/Linux.tar
@@ -47,6 +47,9 @@ tar -xvf Linux.tar
 Edit conf.conf
 ```bash
 vi conf.conf
+```
+```bash
+sudo chmod 777 ./qubicClient
 ```
 ```bash
 ./qubicClient
